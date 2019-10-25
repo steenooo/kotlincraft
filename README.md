@@ -9,9 +9,13 @@ This plugin does not add any game features. It just provides Kotlin libraries.
 Use Maven to build: `mvn clean package`
 
 # How to use
-Do not include this plugin as a dependency.\
+
+Do not include this plugin as a dependency in your own plugin.\
 Include the kotlin libraries.\
 The scope should be set to `Provided`
+Use the normal Spigot/BungeeCord API classes. (JavaPlugin etc)
+Add the appropiate plugin to the plugin folders.
+
 ```
 <dependencies>
     <dependency>
