@@ -1,14 +1,14 @@
-#Kotlincraft
-##Bukkot and BungeeKot
+# Kotlincraft
+## Bukkot and BungeeKot
 Kotlin stdlib, reflect and coroutines in a minecraft plugin. \
 This plugin does not add any game features. It just provides Kotlin libraries.
 
 
 
-#How to build
+# How to build
 Use Maven to build: `mvn clean package`
 
-#How to use
+# How to use
 Do not include this plugin as a dependency.\
 Include the kotlin libraries.\
 The scope should be set to `Provided`
