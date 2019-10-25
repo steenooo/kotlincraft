@@ -3,3 +3,4 @@ main: com.steenhq.bukkot.BukkotPlugin
 version: ${project.version}
 author: steenooo
 api-version: 1.13
+description: Bundled Kotlin stdlib, reflect and coroutines

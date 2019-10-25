@@ -1,3 +1,5 @@
 name: ${plugin.name}
 main: com.steenhq.bungeekot.BungeeKotPlugin
 version: ${project.version}
+author: steenooo
+description: Bundled Kotlin stdlib, reflect and coroutines
