@@ -16,7 +16,7 @@ The scope should be set to `Provided`\
 Use the normal Spigot/BungeeCord API classes. (JavaPlugin etc)\
 Add the appropiate plugin to the plugin folders.
 
-```
+```xml
 <dependencies>
     <dependency>
         <groupId>org.jetbrains.kotlin</groupId>
