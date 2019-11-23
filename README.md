@@ -21,13 +21,13 @@ Add the appropiate plugin to the plugin folders.
     <dependency>
         <groupId>org.jetbrains.kotlin</groupId>
         <artifactId>kotlin-reflect</artifactId>
-        <version>1.3.50</version>
+        <version>1.3.60</version>
         <scope>provided</scope>
     </dependency>
     <dependency>
         <groupId>org.jetbrains.kotlin</groupId>
         <artifactId>kotlin-stdlib-jdk8</artifactId>
-        <version>1.3.50</version>
+        <version>1.3.60</version>
         <scope>provided</scope>
     </dependency>
     <dependency>
