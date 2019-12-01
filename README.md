@@ -21,25 +21,25 @@ Add the appropiate plugin to the plugin folders.
     <dependency>
         <groupId>org.jetbrains.kotlin</groupId>
         <artifactId>kotlin-reflect</artifactId>
-        <version>1.3.60</version>
+        <version>${kotlin.version}</version>
         <scope>provided</scope>
     </dependency>
     <dependency>
         <groupId>org.jetbrains.kotlin</groupId>
         <artifactId>kotlin-stdlib-jdk8</artifactId>
-        <version>1.3.60</version>
+        <version>${kotlin.version}</version>
         <scope>provided</scope>
     </dependency>
     <dependency>
         <groupId>org.jetbrains.kotlinx</groupId>
         <artifactId>kotlinx-coroutines-core</artifactId>
-        <version>1.3.2</version>
+        <version>${kotlinx.coroutines.version}</version>
         <scope>provided</scope>
     </dependency>
     <dependency>
         <groupId>org.jetbrains.kotlinx</groupId>
         <artifactId>kotlinx-coroutines-jdk8</artifactId>
-        <version>1.3.2</version>
+        <version>${kotlinx.coroutines.version}</version>
         <scope>provided</scope>
     </dependency>
 </dependencies>
