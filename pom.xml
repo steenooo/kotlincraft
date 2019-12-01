@@ -13,7 +13,7 @@
     <module>kotlincraft-bungee</module>
   </modules>
   <properties>
-    <kotlin.version>1.3.60</kotlin.version>
+    <kotlin.version>1.3.61</kotlin.version>
     <kotlinx.coroutines.version>1.3.2</kotlinx.coroutines.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <plugin.name>kotlincraft</plugin.name>
